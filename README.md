@@ -16,4 +16,4 @@ The restaurant has an indefinite stream of customers so the player can play for 
 - Leaderboard : How the player has fared against other players on the PC 
 
 
-Developed as part of a team with Faisal Abdul Sattar for the Course ICS 201 [GitHub] (https://github.com/fsmonarchy)
+Developed as part of a team with Faisal Abdul Sattar for the Course ICS 201 [GitHub](https://github.com/fsmonarchy)
